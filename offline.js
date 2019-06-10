@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1560090167,
+	"version": 1560203372,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -28,6 +28,10 @@
 		"images/gameover-sheet0.png",
 		"images/passarodomal-sheet0.png",
 		"images/passarodomal-sheet1.png",
+		"images/nevenuvem.png",
+		"images/nevenuvemesquerda.png",
+		"images/nevenuvemdireita.png",
+		"images/caixote.png",
 		"media/172206__leszek-szary__teleport.m4a",
 		"media/172206__leszek-szary__teleport.ogg",
 		"media/403012__inspectorj__ui-confirmation-alert-a5.m4a",
