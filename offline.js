@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1560203372,
+	"version": 1560542446,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -32,6 +32,15 @@
 		"images/nevenuvemesquerda.png",
 		"images/nevenuvemdireita.png",
 		"images/caixote.png",
+		"images/backgroundazul.png",
+		"images/fase1-sheet0.png",
+		"images/fase1-sheet1.png",
+		"images/fase2-sheet0.png",
+		"images/fase2-sheet1.png",
+		"images/fase3-sheet0.png",
+		"images/fase3-sheet1.png",
+		"images/fase4-sheet0.png",
+		"images/fase4-sheet1.png",
 		"media/172206__leszek-szary__teleport.m4a",
 		"media/172206__leszek-szary__teleport.ogg",
 		"media/403012__inspectorj__ui-confirmation-alert-a5.m4a",
