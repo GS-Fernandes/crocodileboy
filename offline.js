@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1560542446,
+	"version": 1565482219,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -41,6 +41,11 @@
 		"images/fase3-sheet1.png",
 		"images/fase4-sheet0.png",
 		"images/fase4-sheet1.png",
+		"images/backgroundmenu.png",
+		"images/caminho-sheet0.png",
+		"images/btn_down-sheet0.png",
+		"images/fasei-sheet0.png",
+		"images/limitedocaminho-sheet0.png",
 		"media/172206__leszek-szary__teleport.m4a",
 		"media/172206__leszek-szary__teleport.ogg",
 		"media/403012__inspectorj__ui-confirmation-alert-a5.m4a",
